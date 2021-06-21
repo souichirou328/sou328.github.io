@@ -78,8 +78,13 @@ a {
 header {
   height: 65px;
   width: 100%;
+<<<<<<< HEAD
   background-color: rgba(34, 49, 52, 0.9);
   position: fixed;
+=======
+  background-color: rgba(34,49,52,0.9);
+  position :fixed;
+>>>>>>> origin/main
   top: 0;
   z-index: 10;
 }
@@ -108,7 +113,11 @@ header {
 }
 
 .header-right a:hover {
+<<<<<<< HEAD
   background-color: rgba(255, 255, 255, 0.3);
+=======
+  background-color: rgba(255,255,255,0.3);
+>>>>>>> origin/main
 }
 
 .lesson-wrapper {
@@ -268,4 +277,8 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main
